@@ -1,4 +1,5 @@
 # Ratings Analysis
+Final project of Advanced Database Management
 ### Framework
 Apache Hadoop and MapReduce
 ### Design patterns
