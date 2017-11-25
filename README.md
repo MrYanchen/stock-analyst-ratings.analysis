@@ -10,7 +10,7 @@ Top 20 Rated Stocks in 2015 – 2016
 Summary of Predict Classify vs Actual Result
 
 | | Buy | Hold | Sell |
-| | :------: | :------: | :------: |
+| ------ | :------: | :------: | :------: |
 
 ![vs1](https://user-images.githubusercontent.com/33438413/33235377-92f5f1ba-d205-11e7-9733-f8479d959377.png)
 
