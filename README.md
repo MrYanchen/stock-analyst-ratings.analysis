@@ -1,7 +1,7 @@
 # Ratings Analysis
 Implement Top 10 List design pattern. Use MapReduce to summarize the top list of the most rated stocks and the most rating brokerage.<br>
 
-![Top 20 Rating Brokerages in 2015 – 2016](https://user-images.githubusercontent.com/33438413/33235345-ca8f181e-d204-11e7-89f6-5d6f2d3fd673.png)
+![top20brokerage](https://user-images.githubusercontent.com/33438413/33235345-ca8f181e-d204-11e7-89f6-5d6f2d3fd673.png "Top 20 Rating Brokerages in 2015 – 2016")
 <br><center></center>
 
 ![top20stock](https://user-images.githubusercontent.com/33438413/33235346-ca9e05e0-d204-11e7-8661-3b45a9e6b0f5.png)
