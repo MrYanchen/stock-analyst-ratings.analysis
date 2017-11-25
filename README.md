@@ -1,4 +1,6 @@
 # Ratings Analysis
+### Design patterns:
+Top List analysis, Average analysis, Moving Average analysis and Naive Bayes analysis.<br>
 Implement Top 10 List design pattern. Use MapReduce to summarize the top list of the most rated stocks and the most rating brokerage.<br>
 
 ### Top 20 Rating Brokerages in 2015 – 2016
@@ -9,7 +11,7 @@ Implement Top 10 List design pattern. Use MapReduce to summarize the top list of
 ### Top 20 Rated Stocks in 2015 – 2016<br>
 ![top20stock](https://user-images.githubusercontent.com/33438413/33235346-ca9e05e0-d204-11e7-8661-3b45a9e6b0f5.png "Top 20 Rated Stocks in 2015 – 2016")
 
-Implement Naive Bayes design pattern. Use MapReduce to calculate moving average of stocks to get better understand of stocks.
+Implement Naive Bayes design pattern. Use MapReduce to calculate moving average of stocks to get better understand of stocks.<br><br>
 
 ### Summary of Predict Classify vs Actual Result<br>
 ![vs](https://user-images.githubusercontent.com/33438413/33235379-930c41ae-d205-11e7-8451-7411e0bd51c1.png "Summary of Predict Classify vs Actual Result")
@@ -23,6 +25,8 @@ Implement Naive Bayes design pattern. Use MapReduce to calculate moving average 
 | Buy |	353 | 109 |	152 |
 | Hold | 17980 | 16520 | 12321 |
 | Sell | 1726 | 1147 | 1922 |
+
+<br><br>
 
 ### Summary of Predict Classify vs Actual Result of Top 4 Rating Brokerages
 ![vs1](https://user-images.githubusercontent.com/33438413/33235377-92f5f1ba-d205-11e7-9733-f8479d959377.png "Summary of Predict Classify vs Actual Result of Top 4 Rating Brokerages")
