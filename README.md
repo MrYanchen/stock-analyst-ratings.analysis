@@ -17,35 +17,44 @@ Implement Naive Bayes design pattern. Use MapReduce to calculate moving average 
 | Buy |	353 | 109 |	152 |
 | Hold | 17980 | 16520 | 12321 |
 | Sell | 1726 | 1147 | 1922 |
+
 <br>
-Summary Table of Predict Classify vs Actual Result<br>
+Summary Table of Predict Classify vs Actual Result
+<br>
 
 ![vs1](https://user-images.githubusercontent.com/33438413/33235377-92f5f1ba-d205-11e7-9733-f8479d959377.png)
 <br><center>Summary of Predict Classify vs Actual Result of Top 4 Rating Brokerages</center>
 
 ![vs2](https://user-images.githubusercontent.com/33438413/33235378-9300abe6-d205-11e7-9ffa-638bd70490d8.png)
 <center>Summary of Predict Classify vs Actual Result of Top 5 – Top 8 Rating Brokerages</center>
+<br>
 
 | | Buy | Hold | Sell |
 | ------ | :------: | :------: | :------: |
 | Buy |	2 | 8 |	1 |
 | Hold | 24 | 1628 | 143 |
 | Sell | 2 | 143 | 17 |
+
 <br>
-Summary Table of Predict Classify vs Actual Result of Jefferies Group<br>
+Summary Table of Predict Classify vs Actual Result of Jefferies Group
+<br>
 
 | | Buy | Hold | Sell |
 | ------ | :------: | :------: | :------: |
 | Buy |	0 | 3 |	1 |
 | Hold | 0 | 978 | 128 |
 | Sell | 0 | 67 | 19 |
+
 <br>
-Summary Table of Predict Classify vs Actual Result of Deutsche Bank AG<br>
+Summary Table of Predict Classify vs Actual Result of Deutsche Bank AG
+<br>
 
 | | Buy | Hold | Sell |
 | ------ | :------: | :------: | :------: |
 | Buy |	0 | 5 |	0 |
 | Hold | 26 | 1077 | 14 |
 | Sell | 2 | 54 | 1 |
+
 <br>
-Summary Table of Predict Classify vs Actual Result of Credit Suisse Group AG<br>
+Summary Table of Predict Classify vs Actual Result of Credit Suisse Group AG
+<br>
