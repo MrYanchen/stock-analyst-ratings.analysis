@@ -1,4 +1,6 @@
 # Ratings Analysis
+### Framework
+Apache Hadoop and MapReduce
 ### Design patterns
 Top List analysis, Average analysis, Moving Average analysis and Naive Bayes analysis.<br>
 
