@@ -24,7 +24,7 @@ Summary Table of Predict Classify vs Actual Result<br>
 <br><center>Summary of Predict Classify vs Actual Result of Top 4 Rating Brokerages</center>
 
 ![vs2](https://user-images.githubusercontent.com/33438413/33235378-9300abe6-d205-11e7-9ffa-638bd70490d8.png)
-<br><center>Summary of Predict Classify vs Actual Result of Top 5 – Top 8 Rating Brokerages</center>
+<center>Summary of Predict Classify vs Actual Result of Top 5 – Top 8 Rating Brokerages</center>
 
 | | Buy | Hold | Sell |
 | ------ | :------: | :------: | :------: |
